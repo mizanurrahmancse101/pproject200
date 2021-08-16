@@ -1,0 +1,147 @@
+.Home{
+  text-align: center;
+  background: #222831;
+  color: #f2f2f2;
+  padding-top: 300px;
+  padding-bottom: 300px;
+  font-family: Arial, sans-serif;
+  font-size: 90px;
+
+}
+
+.about-covid19 {
+  text-align: center;
+  color: #f2f2f2;
+  background:#222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+
+}
+.aboutitsspread {
+  color: #f2f2f2;
+  text-align: center;
+  background: #222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+.how-it-start{
+   color: #f2f2f2;
+   text-align: center;
+   background: #222831;
+   padding-top: 5px;
+   padding-bottom: 20px;
+   padding-left: 15px;
+   padding-right: 15px;
+   margin-bottom: -10px;
+}
+.its-incubation-period{
+  color: #f2f2f2;
+  text-align: center;
+  background: #222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+.its-symptoms{
+  color:#f2f2f2;
+  text-align:center;
+  background:#222831;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+.about-its-diagnose{
+  color: #f2f2f2;
+  text-align: center;
+  background:#222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+.about-its-diagnose{
+ color:#f2f2f2;
+ text-align: center;
+ background: #222831;
+ padding-top: 5px;
+ padding-bottom: 20px;
+ padding-left: 15px;
+ padding-right: 15px;
+ margin-bottom: -10px;
+}
+.treatment {
+  color: #f2f2f2;
+  text-align: center;
+  background:#222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+.about-protection-from-covid{
+  color: #f2f2f2;
+  text-align: left;
+  background:#222831;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: -10px;
+}
+img {
+  width: 470px;
+  height: inherit ;
+  transition: all 500ms;
+
+
+}
+img:hover{
+  transform: scale(1.5);
+
+}
+
+a:link{
+  color::#1a8b9d;
+}
+
+a:visited{
+  color:#d7eaea;
+}
+a:hover{
+  color:#1a8b9d;
+}
+h3 {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+}
+
+p {
+  font-family: Arial,sans-serif;
+  font-size: 34px;
+  text-align: left;
+}
+.alert alert-primary {
+  text-align: left;
+}
+p2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 100px;
+
+}
